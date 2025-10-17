@@ -1,0 +1,11 @@
+numpy
+pandas
+langchain
+openai
+tavily-python
+ipykernel
+crewai
+sentence-transformers
+scikit-learn
+accelerate
+torch
