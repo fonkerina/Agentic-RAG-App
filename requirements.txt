@@ -1,8 +1,10 @@
 numpy
 pandas
 langchain
+crewai
 tavily-python
 ipykernel
 sentence-transformers
 scikit-learn
 torch
+accelerate
