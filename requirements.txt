@@ -4,6 +4,7 @@ langchain
 crewai
 tavily-python
 ipykernel
+ipywidgets
 sentence-transformers
 scikit-learn
 torch
