@@ -1,7 +1,7 @@
 numpy
 matplotlib
 langchain
-crewai
+langgraph
 tavily-python
 ipykernel
 ipywidgets
